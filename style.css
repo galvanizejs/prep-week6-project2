@@ -1,0 +1,103 @@
+
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+
+body {
+   font-size: 180%;	
+}
+
+main {
+  width: 500px;
+  margin: auto;	
+  padding: 40px 0 100px 0;
+}
+
+footer {
+   height: 100px;
+   background-color: #000;	
+}
+
+h1 {
+	color: #fff;
+	font-family: 'Special Elite', cursive;
+	font-size: 60px;
+	padding: 60px 0;
+	margin: 0;
+	background-color: #000;
+}
+
+.center, 
+button {
+  text-align: center;	
+  margin:auto;
+  display:block;
+  margin-bottom: 20px;
+}
+
+.buttonStyle {
+  border-radius: 13px;
+  font-family: Arial;
+  color: #fff;
+  font-size: 30px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.buttonStyle:hover {
+  background: #3cb0fd;
+}
+
+
+.addUniqueStyle {
+  border-radius: 15px;
+  font-family: Times;
+  color: #fff;
+  font-size: 25px;
+  background: #fc6221;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.addUniqueStyle:hover {
+  background: #3cb0fd;
+}
+
+.buttonStyle:focus,
+.addUniqueStyle:focus {outline:0;}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: #FF6103;
+  margin-left: 100px;
+  margin:auto;
+  display:block;
+}
+
+
+.redSquare {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-left: 100px;
+  margin:auto;
+  display:block;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FF6103;
+  margin-left: 100px;
+  margin:auto;
+  display:block;
+}
+
+
+
+hr {
+ margin: 80px 0;   
+}
+
+
